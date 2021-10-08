@@ -153,6 +153,8 @@ Some shortcuts
 
 If you use parts of our code, please acknowledge us by citing our paper. 
 
+> Podder Shirsendu, Righi Simone and Pancotto Francesca 2021Reputation and punishment sustain cooperation in the optional public goods gamePhil. Trans. R. Soc. B3762020029320200293 http://doi.org/10.1098/rstb.2020.0293
+
 **Authors**
 
 Shirsendu Podder - s.podder@live.co.uk\
